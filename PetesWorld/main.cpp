@@ -55,7 +55,6 @@ int main()
 			std::cout << "Australia, Antarctica, Aruba, Anguilla Leeward Islands, Antigua and Barbuda, American Samoa" << std::endl;
 		}
 	}	
-<<<<<<< HEAD
 	if (letter == 'b' || letter == 'B')
 	{
 		if (region == 1)
@@ -99,7 +98,6 @@ int main()
 		if (region == 5)
 		{
 			std::cout << "There are no Ys in the Rest of the World" << std::endl;
->>>>>>> d51ecf7ce3df96befc9d8ef0236d5d035b278036
 		}
 	}
 	if (letter == 'z' || letter == 'Z') // written by Pete
